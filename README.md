@@ -30,4 +30,4 @@ Design a clean, conversion-focused landing page that communicates the value of A
 
 ## Figma Prototype
 
-https://www.figma.com/...
+https://www.figma.com/proto/B7SoCy7dopPQ9F3rFfQGFt/Untitled?node-id=1-119&viewport=48%2C265%2C0.41&t=U4deRwUxtytH6Wqu-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
