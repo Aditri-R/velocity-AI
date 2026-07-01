@@ -6,7 +6,7 @@ A modern landing page redesign for an AI workforce management platform. The rede
 
 ## Objective
 
-Design a clean, conversion-focused landing page that communicates the value of AI-powered workforce management.
+Designed a clean, conversion-focused landing page that communicates the value of AI-powered workforce management.
 
 ## Features
 
